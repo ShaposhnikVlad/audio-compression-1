@@ -1,6 +1,5 @@
 """
-Created on Tue Oct  6 00:15:58 2020
-@author: mockingbird01001
+Shaposhnik Vladislav 09.10.22
 """
 
 import matplotlib.pyplot as plt
