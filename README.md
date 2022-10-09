@@ -1,2 +1,1 @@
-# audio-compression
-compress an audio file ".wav"
+# Shaposhnik Vladislav create README.me
